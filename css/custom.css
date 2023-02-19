@@ -541,19 +541,6 @@ textarea{
   color: #555555;
   line-height: 1.4;
 }
-.checkbox input[type="checkbox"]:checked + label::after {
-  font-family: "FontAwesome";
-  content: "\f00c";
-}
-
-
-.checkbox-primary input[type="checkbox"]:checked + label::before {
-  background-color: #5cb85c;
-  border-color: #5cb85c;
-}
-.checkbox-primary input[type="checkbox"]:checked + label::after{
-  color: #fff;
-}
 .page-header { position: relative; }
 .reviews {
     color: #555;    
