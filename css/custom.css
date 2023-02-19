@@ -541,12 +541,6 @@ textarea{
   color: #555555;
   line-height: 1.4;
 }
-.checkbox input[type="checkbox"]{
-  opacity: 0;
-  z-index: 1;
-  cursor: pointer;
-}
-
 .checkbox input[type="checkbox"]:checked + label::after {
   font-family: "FontAwesome";
   content: "\f00c";
