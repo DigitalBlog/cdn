@@ -87,7 +87,7 @@ a:visited {
 }
 
 a:hover{
-	color: #0d6efd;
+	color: #9317d1;
 }
 
 .btn {
@@ -486,7 +486,7 @@ iframe {
 }
 
 .navbar-brand i{
-	color: #B41FFF
+	color: #B41FFF;
 }
 
 .navbar-brand:hover{
@@ -494,7 +494,7 @@ iframe {
 }
 
 .navbar-brand span.orange, .navbar-brand:hover span.orange{
-	color: #0d6efd;
+	color: #9317d1;
 }
 
 .navbar-fixed-top.opaque .navbar-brand{
