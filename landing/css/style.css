@@ -159,7 +159,7 @@ h6 {
 }
 
 .blue{
-	color: #0d6efd;
+	color: #B41FFF
 }
 
 .red{
@@ -486,7 +486,7 @@ iframe {
 }
 
 .navbar-brand i{
-	color: #0d6efd;
+	color: #B41FFF
 }
 
 .navbar-brand:hover{
@@ -517,7 +517,7 @@ iframe {
 }
 
 .navbar-toggler {
-    border: 1px solid #0d6efd;
+    border: 1px solid #B41FFF;
 }
 
 .navbar-toggler-icon {
@@ -526,7 +526,7 @@ iframe {
 }
 
 .navbar-toggler-icon i {
-    color: #0d6efd;
+    color: #B41FFF;
     vertical-align: middle;
 }
 
@@ -565,7 +565,7 @@ iframe {
 }
 
 .navbar-fixed-top .navbar-nav > li > a:hover{
-	color: #0d6efd!important;
+	color: #B41FFF!important;
 	-webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -573,7 +573,7 @@ iframe {
 }
 
 .nav-item.current a {
-    color:#0d6efd!important;
+    color:#B41FFF!important;
      -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -581,9 +581,9 @@ iframe {
 }
 
 .navbar-fixed-top .navbar-nav > li > a.discover-btn {
-	border: 2px solid #0d6efd;
+	border: 2px solid #B41FFF;
 	color: #fff!important;
-	background:#0d6efd;
+	background:#B41FFF;
 	border-radius: 5px 5px;
 	padding: 10px 18px!important;
 	margin-left: 10px;
@@ -636,7 +636,7 @@ iframe {
 
 .footer p > a {
 	font-size: 17px;
-	color: #0d6efd;
+	color: #B41FFF;
 	text-decoration:underline;
 }
 
