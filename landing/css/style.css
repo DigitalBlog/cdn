@@ -109,7 +109,7 @@ a:hover{
     text-decoration: none;
 }
 
-a:hover .btn-link i{color:#0a58ca}
+a:hover .btn-link i{color:#B41FFF}
 
 h1,
 h2,
@@ -159,7 +159,7 @@ h6 {
 }
 
 .blue{
-	color: #B41FFF
+	color: #B41FFF;
 }
 
 .red{
