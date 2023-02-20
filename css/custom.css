@@ -10,12 +10,6 @@ body{
 h2{
   color:#586069;
 }
-
-.help-block{
-    color: #a94442;
-    text-align: left;
-    font-size: 0.7rem;
-    margin: 0.3rem 1.4rem 0 0;
 }
 .alert.container{
   position: fixed;
