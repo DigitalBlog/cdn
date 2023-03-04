@@ -59,6 +59,5 @@ tinymce.init({
   toolbar_mode: 'sliding',
   powerpaste_word_import: 'clean',
   powerpaste_html_import: 'clean',
-  content_css: useDarkMode ? 'dark' : 'default',
   content_style: 'body { font-family:Helvetica,Arial,sans-serif; font-size:16px }'
 });
