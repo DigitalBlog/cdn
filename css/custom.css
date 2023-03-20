@@ -360,10 +360,6 @@ a:hover {
   color:#586069;
 }
 
-.post-link{
-  text-decoration: none;
-}
-
 .discussion-timeline-actions{
   margin-bottom: 10px;
 }
@@ -448,6 +444,7 @@ a:hover {
 }
 .post-title a{
   color:#586069;
+  text-decoration: none;
 }
 .read-more,
 .read-more:hover{
