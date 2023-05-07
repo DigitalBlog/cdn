@@ -307,10 +307,9 @@ a:hover {
 }
 .avatar-wrapper .upload-button .fa-arrow-circle-up {
   position: absolute;
-  font-size: 120px;
+  font-size: 110px;
   top: -8px;
   left: 0;
-  padding-right: 60px;
   text-align: center;
   opacity: 0;
   transition: all 0.3s ease;
