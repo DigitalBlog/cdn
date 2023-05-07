@@ -309,7 +309,7 @@ a:hover {
   position: absolute;
   font-size: 105px;
   top: 0px;
-  left: -3px;
+  left: -2px;
   text-align: center;
   opacity: 0;
   transition: all 0.3s ease;
