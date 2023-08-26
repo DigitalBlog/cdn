@@ -159,7 +159,7 @@ li .comment-thumbnail{
   
 }
 .userLink:hover{
-    text-decoration: underline;
+    text-decoration: none;
     color:#999;
   }
 
