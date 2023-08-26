@@ -159,7 +159,7 @@ li .comment-thumbnail{
   
 }
 .userLink:hover{
-    text-decoration: none;
+    text-decoration: none !important;
     color:#999;
   }
 
@@ -254,7 +254,7 @@ li .comment-thumbnail{
   margin-bottom: 2px;
 }
 a:hover {
-  text-decoration: none
+  text-decoration: none;
 }
 
 .avatar-wrapper {
