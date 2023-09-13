@@ -38,7 +38,7 @@ $(window).on('load', function(){
 	/*   SmoothScroll                                             */
 	/* ========================================================== */
 	
-	$(".navbar-nav li a, a.scrool").on('click', function(e) {
+	$(".navbar-nav .scroll li a, a.scrool").on('click', function(e) {
 		
 		var full_url = this.href;
 		var parts = full_url.split("#");
