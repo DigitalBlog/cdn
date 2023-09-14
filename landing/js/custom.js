@@ -22,4 +22,5 @@ $(".navbar-nav li a, a.scroll").on('click', function(e) {
     var target_top = target_offset.top;
     $('html,body').animate({ scrollTop: target_top - 70 }, 1000);
     return false;
+  }
 });
