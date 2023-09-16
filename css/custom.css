@@ -50,7 +50,8 @@ h2{
   cursor: pointer;
 }
 .checkbox input[type="checkbox"]:checked + label::after {
-  font-family: "FontAwesome", sans-serif;
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
   content: "\f00c";
 }
 .checkbox-primary input[type="checkbox"]:checked + label::before {
