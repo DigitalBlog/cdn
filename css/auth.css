@@ -65,4 +65,9 @@ input:focus{
     .wrapper {
       zoom: 95%;
     }
-  }
+}
+@media (max-width: 330px) {
+    .wrapper {
+      zoom: 90%;
+    }
+}
