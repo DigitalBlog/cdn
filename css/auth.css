@@ -10,12 +10,12 @@ body{
     border-radius: 10px;
     text-align: center;
     box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
-  }
+}
 h1{
     font-size: 2 rem;
     color: #464647;
     margin-bottom: 0.5rem;
-  }
+}
 form input{
   width: 92%;
   outline: none;
@@ -47,19 +47,22 @@ input:focus{
     font-size: 0.8rem;
     margin-top: 0.5rem;
     color: #636363;
-  }
-  .member a{
+}
+.member a{
     color: rgb(90, 70, 143);
     text-decoration: none;
-  }
-  .help-block{
+}
+.help-block{
     color: #a94442;
     text-align: left;
     font-size: 0.7rem;
     padding-left: 1rem;
     padding-top: 0.1rem;
-  }
+}
 
+#ReCaptcha {
+    height: 78px;
+}
   
 @media (max-width: 340px) {
     .wrapper {
