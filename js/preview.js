@@ -5,6 +5,7 @@ tinymce.init({
   menubar: false,
   toolbar: false,
   readonly: true,
+  resize: false,
   height: '96vh',
   width: '100%'
 });
