@@ -164,9 +164,6 @@ li .comment-thumbnail{
     color:#999;
   }
 
-.panel span{
-  color:#586061;
-}
 .panel>.panel-heading:after,.panel>.panel-heading:before{
 	position:absolute;
 	top:11px;left:-16px;
